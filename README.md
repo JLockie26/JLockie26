@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, my name is Jordan!
+
+I am a computer science graduate from Western Australia.
+
+I have recently finished my degree and eager to use my newfound free time to build software and systems that interest me or help bring joy or convenience to others.
+
+Currently working on an Arduino-based weather station and web application to monitor and measure weather data around my local area.
+
+Eager to build and learn from more projects related to embedded systems and artificial intelligence and very open to collaboration!
 
 <!--
 **JLockie26/JLockie26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

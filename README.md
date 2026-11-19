@@ -8,6 +8,13 @@ Currently working on an Arduino-based weather station and web application to mon
 
 Eager to build and learn from more projects related to embedded systems and artificial intelligence and very open to collaboration!
 
+Familiar Technologies:
+- C/C++
+- Python
+- HTML/CSS/JavaScript
+- Node.js
+- Linux/Unix
+
 <!--
 **JLockie26/JLockie26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
